@@ -353,6 +353,7 @@ ggplot(summary_average_minutes, aes(x=" ", y=percentages, fill=category)) +
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![unnamed-chunk-13-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/2653f3c2-f783-4c69-8751-8fd128dcaafa)
 
 While in average, 80% of total minutes was spent as Sedentary, 17% was
 considered Lightly Active and roughly 3% was both Fairly and Very Active
