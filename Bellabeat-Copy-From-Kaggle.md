@@ -369,6 +369,7 @@ ggplot(Daily_Activity_AddedColumnssm, aes(x=Id, y=SedentaryHoursperId)) + geom_p
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![unnamed-chunk-14-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/0c5f1fd1-3057-44c7-bc46-5945b7dcb4ac)
 
 When plotting Sedentary hours per user Id, we seem to find two groups:
 
@@ -407,6 +408,7 @@ ggplot(dtav[29:56, ], aes(x=typeofActivity, y=Average, fill=typeofActivity)) + g
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![unnamed-chunk-15-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/fc955699-a7a8-4614-91c9-b2e902cf1d4f)
 
 Just as with time, there is small variation in the averages of distance
 per activity across the days of the week.
@@ -441,6 +443,7 @@ ggplot(Daily_Activity_AddedColumns) +
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![unnamed-chunk-16-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/4bca966f-53f0-4134-b89e-3c8d5c9f6c10)
 
 ``` r
 Daily_Activity_AddedColumns3 <- Daily_Activity_AddedColumns %>%
@@ -458,6 +461,7 @@ ggplot(data=Daily_Activity_AddedColumns3, aes(x=dayofweek, y=avgsteps)) + labs(x
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->
+![unnamed-chunk-18-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/169895a0-c6b6-4cc3-a1ba-ad07e4658d55)
 
 - Surprisingly the most Steps are taken on Saturdays, this might be
   related to a slight increase in Lightly and Fairly Active Distances
@@ -495,6 +499,7 @@ ggplot(Daily_Activity_AddedColumns) +
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![unnamed-chunk-19-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/97e32bf9-4160-4d5f-8a4e-d38eea600d86)
 
 ## Sleep Data
 
@@ -619,6 +624,7 @@ ggplot(combined_data) +
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
+![unnamed-chunk-28-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/c4563523-c81f-4f61-bd58-b20bf7058cb5)
 
 We found a positive correlation between TotalTimeInBed and
 TotalMinutesAsleep. This makes sense, and in average the difference
@@ -652,6 +658,7 @@ ggplot(Daily_Activity_AddedColumns_Usage_t2, aes(x=Uselevel)) + geom_bar(fill="#
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
+![unnamed-chunk-29-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/dce6181e-290a-418a-8234-ae3cd1fde050)
 
 All respondents used their trackers between 23 and 26 hours per day. 17
 respondents (71%) used the tracker between 23 and 24 hours a day.
@@ -671,6 +678,7 @@ ggplot(data=Daily_Activity, aes(x=TotalSteps, y=SedentaryMinutes)) + geom_point(
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
+![unnamed-chunk-30-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/05024e5a-10c2-4910-b19c-e1c89634f940)
 
 - Steps and Sedentary Minutes show a negative relationship. Although it
   seems obvious, it validates the notion that tracking steps leads to a
@@ -682,6 +690,7 @@ ggplot(combined_data, aes(x=TotalMinutesAsleep, y=SedentaryMinutes)) + geom_poin
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-31-1.png)<!-- -->
+![unnamed-chunk-31-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/395beaad-a08d-45ee-8b3b-26c4646901a5)
 
 - Minutes Asleep and Sedentary Minutes show a negative relationship.
   Sedentary time doesn’t lead to a healthy lifestyle, and more sedentary
@@ -693,6 +702,7 @@ ggplot(data=Daily_Activity, aes(x=TotalSteps, y=Calories)) + geom_point() + geom
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-32-1.png)<!-- -->
+![unnamed-chunk-32-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/ba97b3f5-dfbc-40bf-a909-ed12e10a3d66)
 
 - As expected, Steps and Calories show a positive relationship.
 
@@ -881,6 +891,7 @@ ggplot(data=combined_hourly_h1, aes(x=Hours, y=avesteps)) + labs(x="Hours of the
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-42-1.png)<!-- -->
+![unnamed-chunk-42-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/3ed92f98-c6a3-4e37-b810-e93fd62ded39)
 
 - From Monday through Friday steps peak between 5pm to 7pm.
 
@@ -901,6 +912,7 @@ ggplot(data=combined_hourly_h1, aes(x=Hours, y=avecal)) + labs(x="Hours of the D
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-43-1.png)<!-- -->
+![unnamed-chunk-43-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/d716d356-f330-46b9-b27b-53e87940e872)
 
 Average Calories burned follow the same hourly pattern as Steps.
 
@@ -912,6 +924,7 @@ ggplot(data=combined_hourly_h1, aes(x=Hours, y=aveintensity)) + labs(x="Hours of
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-44-1.png)<!-- -->
+![unnamed-chunk-44-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/132e3250-6a99-45dc-9110-6f7a6efcaceb)
 
 From the data dictionary document
 ([link](https://www.fitabase.com/media/1930/fitabasedatadictionary102320.pdf)),
@@ -929,6 +942,7 @@ ggplot(data=combined_hourly, aes(x=StepTotal, y=Calories)) + geom_point() + geom
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-45-1.png)<!-- -->
+![unnamed-chunk-45-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/df67b312-de9c-4184-a076-f5acb03081cc)
 
 - Positive relationship found between Steps taken and Calories burned,
   same result as in the daily data.
@@ -939,6 +953,7 @@ ggplot(data=combined_hourly, aes(x=Calories, y=AverageIntensity)) + geom_point()
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-46-1.png)<!-- -->
+![unnamed-chunk-46-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/fd23cf53-e4ab-4fa4-ae6c-ca986b6edb2d)
 
 - Average Intensity and Calories burned show to have a positive
   relationship.
