@@ -3,7 +3,7 @@ Bellabeat Case Study
 Elizabeth Gels
 2023-03-03
 
-# ABOUT THE COMPANY
+## ABOUT THE COMPANY
 
 Bellabeat is a high-tech manufacturer of health-focused products for
 women. Collecting data on activity, sleep, stress, and reproductive
@@ -30,7 +30,7 @@ Bellabeat products:
   stress. The Time watch connects to the Bellabeat app to provide you
   with insights into your daily wellness.
 
-# ASK
+## ASK
 
 ## Business Task
 
@@ -45,7 +45,7 @@ analyze FitBit’s users data to gain insight into how consumers are using
 their smart devices. Then, based on the insights discovered I will
 provide high-level recommendations for Bellabeat’s marketing strategy.
 
-# PREPARE
+## PREPARE
 
 ## Data Set
 
@@ -69,7 +69,7 @@ crowdsourcing tools for conducting research.
 The tool chosen for this analysis is R programming, used in the platform
 of Rstudio Cloud.
 
-# PROCESS AND ANALYSIS
+## PROCESS AND ANALYSIS
 
 ## Loading R Packages
 
@@ -1073,7 +1073,7 @@ ggplot(Weight_Sum, aes(x=" ", y=" ", fill=Category)) + geom_bar(stat="identity",
 5 (63%) users are overweight or obese. But this sample is too small to
 conclude anything regarding the population.
 
-# CONCLUSIONS
+## CONCLUSIONS
 
 ## Data Limitations
 
