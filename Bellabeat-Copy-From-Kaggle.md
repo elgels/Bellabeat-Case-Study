@@ -1067,6 +1067,7 @@ ggplot(Weight_Sum, aes(x=" ", y=" ", fill=Category)) + geom_bar(stat="identity",
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-54-1.png)<!-- -->
+![unnamed-chunk-54-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/40b4ac5e-8d23-46be-9c45-dc1092515f06)
 
 5 (63%) users are overweight or obese. But this sample is too small to
 conclude anything regarding the population.
