@@ -964,6 +964,7 @@ ggplot(data=combined_hourly, aes(x=StepTotal, y=AverageIntensity)) + geom_point(
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-47-1.png)<!-- -->
+![unnamed-chunk-47-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/7958bbe0-13bd-4fb9-8613-fb9b8ec981fa)
 
 - The higher the number of Steps taken, the higher the average Intensity
   value.
