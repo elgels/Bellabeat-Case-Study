@@ -303,6 +303,7 @@ ggplot(dtav[1:28, ], aes(x=typeofActivity, y=Average, fill=typeofActivity)) +
 ```
 
 ![](Bellabeat-Copy-From-Kaggle_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![unnamed-chunk-11-1](https://github.com/elgels/Bellabeat-Case-Study/assets/131495309/5647b9d4-35c9-4cbe-a407-a575ec74064b)
 
 There is small variation in the averages of time per activity across the
 days of the week.
