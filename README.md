@@ -70,11 +70,11 @@ Approximately 80% of daily time is spent in sedentary activities, with only a sm
 <h3>Sleep and Sedentary Time</h3>
 
 <p align="center">
-  <img src="figures/time_sleep_vs_sedentary_activity.png" width="600">
+  <img src="figures/time_sleep_vs_sedentary_activity.png" width="500">
 </p>
 
 <p>
-Sedentary time varies across users, but remains consistently high overall.
+Minutes Asleep and Sedentary Minutes show a negative relationship. Sedentary time doesn’t lead to a healthy lifestyle, and more sedentary time is related to less sleep.
 </p>
 
 ---
