@@ -49,9 +49,15 @@ Analyze smart device usage data to gain insights into how consumers use non-Bell
 
 <ul>
 <li>FitBit Fitness Tracker Data (Public dataset from Kaggle)</li>
+
+
+  <a href="https://www.kaggle.com/code/elizabethgels/bellabeat-case-study-r">
+    View dataset on Kaggle
+  </a>
+ <br><br>
+
 <li>Data collected from 33 users over a 31-day period</li>
 </ul>
-
 <hr>
 
 <h2>Analysis & Visualizations</h2>
@@ -63,7 +69,7 @@ Analyze smart device usage data to gain insights into how consumers use non-Bell
 </p>
 
 <p>
-Users tend to exercise vigorously (Very Active) during the first days of the week (Monday, Tuesdays), and have more Light and Fairly activity minutes during the weekend. 
+Users tend to exercise vigorously (Very Active) during the first days of the week (Monday, Tuesdays), and have more Light and Fairly activity during the weekend. 
 </p>
 
 ---
@@ -87,7 +93,7 @@ Approximately 80% of daily time is spent in sedentary activities, with only a sm
 </p>
 
 <p>
-Minutes Asleep and Sedentary Minutes show a negative relationship. Sedentary time doesn’t lead to a healthy lifestyle, and more sedentary time is related to less sleep.
+Minutes Asleep and Sedentary Minutes show a negative relationship. Sedentary time does not lead to a healthy lifestyle, and more sedentary time is related to less sleep.
 </p>
 
 ---
