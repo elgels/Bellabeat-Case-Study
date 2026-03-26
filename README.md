@@ -58,7 +58,7 @@ Users tend to exercise vigorously (Very Active) during the first days of the wee
 <h3>Activity as Percentage of Daily Time</h3>
 
 <p align="center">
-  <img src="figures/time_by_activity_time.png" width="500">
+  <img src="figures/Time_by_activity_type.png" width="450">
 </p>
 
 <p>
