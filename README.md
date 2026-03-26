@@ -16,6 +16,21 @@ This project is part of the Google Data Analytics Professional Certificate capst
 
 <hr>
 
+<h2>Project Structure</h2>
+
+<pre>
+├── Bellabeat_Analysis.md
+├── README.md
+└── figures/
+    ├── Time_by_activity_type.png
+    ├── activity_by_day.png
+    ├── calories_boxplot.png
+    ├── steps_boxplot.png
+    └── time_sleep_vs_sedentary_activity.png
+</pre>
+
+<hr>
+
 <h2>About the Company</h2>
 
 <p>
