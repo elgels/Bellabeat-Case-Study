@@ -67,10 +67,10 @@ Approximately 80% of daily time is spent in sedentary activities, with only a sm
 
 ---
 
-<h3>Sedentary Time by User</h3>
+<h3>Sleep and Sedentary Time</h3>
 
 <p align="center">
-  <img src="figures/sedentary_by_user.png" width="600">
+  <img src="figures/time_sleep_vs_sedentary_activity.png" width="600">
 </p>
 
 <p>
@@ -86,9 +86,6 @@ Sedentary time varies across users, but remains consistently high overall.
   <img src="figures/calories_boxplot.png" width="500">
 </p>
 
-<p align="center">
-  <img src="figures/sleep_analysis.png" width="500">
-</p>
 
 <p>
 Additional analyses include box plots for steps, calories, and sleep, as well as correlation and hourly trend analyses.
