@@ -51,7 +51,7 @@ Analyze smart device usage data to gain insights into how consumers use non-Bell
 <li>FitBit Fitness Tracker Data (Public dataset from Kaggle)</li>
 
 
-  <a href="https://www.kaggle.com/code/elizabethgels/bellabeat-case-study-r">
+  <a href="https://www.kaggle.com/datasets/arashnic/fitbit">
     View dataset on Kaggle
   </a>
  <br><br>
