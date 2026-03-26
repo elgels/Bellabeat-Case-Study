@@ -43,22 +43,22 @@ Analyze smart device usage data to gain insights into how consumers use non-Bell
 
 <h2>Analysis & Visualizations</h2>
 
-<h3>📈 Average Activity by Day of the Week</h3>
+<h3>Average Activity by Day of the Week</h3>
 
 <p align="center">
-  <img src="figures/activity_by_day.png">
+  <img src="figures/activity_by_day.png" width="650">
 </p>
 
 <p>
-Users tend to engage in more vigorous activity earlier in the week, while weekends show higher levels of light and moderate activity.
+Users tend to exercise vigorously (Very Active) during the first days of the week (Monday, Tuesdays), and have more Light and Fairly activity minutes during the weekend. 
 </p>
 
 ---
 
-<h3>Activity Distribution</h3>
+<h3>Activity as Percentage of Daily Time</h3>
 
 <p align="center">
-  <img src="figures/activity_distribution.png" width="500">
+  <img src="figures/time_by_activity_time.png" width="500">
 </p>
 
 <p>
@@ -67,7 +67,7 @@ Approximately 80% of daily time is spent in sedentary activities, with only a sm
 
 ---
 
-<h3>📉 Sedentary Time by User</h3>
+<h3>Sedentary Time by User</h3>
 
 <p align="center">
   <img src="figures/sedentary_by_user.png" width="600">
