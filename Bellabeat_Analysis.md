@@ -95,7 +95,7 @@ library(skimr)
 Loading the daily_Activity file:
 
 ``` r
-Daily_Activity <- read_csv("dailyActivity_merged.csv")
+Daily_Activity <- read_csv("data/dailyActivity_merged.csv")
 ```
 
 Looking at the structure of the table:
