@@ -19,6 +19,8 @@ This project was completed as the capstone project for the Google Data Analytics
 <pre>
 ├── Bellabeat_Analysis.md
 ├── README.md
+├── data/
+│   └── dailyActivity_merged.csv
 └── figures/
     ├── Time_by_activity_type.png
     ├── activity_by_day.png
