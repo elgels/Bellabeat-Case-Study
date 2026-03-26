@@ -3,15 +3,13 @@
 <p align="center">
 A data analysis project exploring user activity patterns using Fitbit data to generate insights and marketing recommendations for Bellabeat.
 </p>
-<p align="center">
-This project was completed as the capstone project for the Google Data Analytics Professional Certificate, demonstrating end-to-end data analysis from data cleaning to business recommendations.
-</p>
+
 <hr>
 
 <h2>Project Overview</h2>
 
 <p>
-This project is part of the Google Data Analytics Professional Certificate capstone. The objective is to analyze user activity data from Fitbit devices to identify trends in physical activity, sleep, and sedentary behavior, and to provide actionable recommendations for Bellabeat’s marketing strategy.
+This project was completed as the capstone project for the Google Data Analytics Professional Certificate in 2023, demonstrating end-to-end data analysis from data cleaning to business recommendations. The objective is to analyze user activity data from Fitbit devices to identify trends in physical activity, sleep, and sedentary behavior, and to provide actionable recommendations for Bellabeat’s marketing strategy.
 </p>
 
 <hr>
