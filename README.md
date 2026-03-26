@@ -46,7 +46,7 @@ Analyze smart device usage data to gain insights into how consumers use non-Bell
 <h3>📈 Average Activity by Day of the Week</h3>
 
 <p align="center">
-  <img src="figures/activity_by_day.png" width="650">
+  <img src="figures/activity_by_day.png">
 </p>
 
 <p>
